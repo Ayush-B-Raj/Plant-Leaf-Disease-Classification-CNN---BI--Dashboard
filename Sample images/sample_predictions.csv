@@ -1,0 +1,21 @@
+file_name,true_label,predicted_label,confidence
+09ae534a-e931-4f83-8545-cf330dfebae9___NREC_B.Spot 9210.JPG,Pepper__bell___Bacterial_spot,Tomato__Tomato_YellowLeaf__Curl_Virus,85.3
+1092e87d-5d66-43cd-8344-43b393d86065___NREC_B.Spot 9244.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,99.88
+141a46fa-9293-4810-9cf6-b329346f8fb2___JR_B.Spot 8995.JPG,Pepper__bell___Bacterial_spot,Potato___Late_blight,59.05
+2def1cb7-36cf-4aed-a8e5-ad7864721a44___JR_B.Spot 8915.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,94.91
+30559581-e3ea-4ac4-8e8b-ff8bbc44b014___JR_B.Spot 8832.JPG,Pepper__bell___Bacterial_spot,Tomato_Septoria_leaf_spot,56.17
+3dcf00d5-a9c0-4920-8767-2355f3f85bc4___NREC_B.Spot 9218.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,81.37
+4040f0a8-b1e5-47e9-b8ad-521818bf8c52___NREC_B.Spot 9202.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,59.98
+490afec2-acdf-4b61-b137-43d43285817c___JR_B.Spot 8949.JPG,Pepper__bell___Bacterial_spot,Tomato_Septoria_leaf_spot,68.37
+4c6a8199-896f-4cbf-8db4-3baa021a9e1c___NREC_B.Spot 9247.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___healthy,52.14
+560d432a-7524-4482-8b49-1e64767da58b___JR_B.Spot 8831.JPG,Pepper__bell___Bacterial_spot,Tomato_Septoria_leaf_spot,83.75
+0495b4d4-66a4-438c-862d-c483f08e4a95___JR_B.Spot 3288.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,93.14
+04d46cfb-9cc8-4083-82af-ca2bb57c8182___NREC_B.Spot 1814.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,100.0
+05c6ea65-cce4-43da-b57b-a45321b0e51b___NREC_B.Spot 9048.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,99.91
+0a4c007d-41ab-4659-99cb-8a4ae4d07a55___NREC_B.Spot 1954.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,99.58
+0c6f6805-490e-438c-b9cd-3fd7ee29f31b___NREC_B.Spot 9123.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,96.22
+0d2635e7-df23-4ceb-b3ba-3af50bb58357___NREC_B.Spot 1874.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,100.0
+0d8445ac-6333-42b0-bf32-950a2dd83908___NREC_B.Spot 1862.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,97.18
+0efa6329-22f4-4bf0-a67a-17b0d5e4d2f2___NREC_B.Spot 9145.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,100.0
+0f72db9c-d635-4415-9781-68937328aed2___NREC_B.Spot 9188.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,98.31
+0fcbdf76-fcc4-4271-986a-9466a784d404___JR_B.Spot 3374.JPG,Pepper__bell___Bacterial_spot,Pepper__bell___Bacterial_spot,100.0
